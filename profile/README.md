@@ -26,4 +26,4 @@ We welcome contributions from researchers, developers, enthusiasts, and anyone p
 
 ## Contact Us
 
-For inquiries, partnership opportunities, or to learn more about our work, feel free to reach out to us at [drone.center@iitgoa.ac.in](drones.center@iitgoa.ac.in).
+For inquiries, partnership opportunities, or to learn more about our work, feel free to reach out to us at [drones.center@iitgoa.ac.in](drones.center@iitgoa.ac.in).
